@@ -6,7 +6,7 @@
     "Mozilla Marketplace Team"
   ],
   "description": "Fonts for the Firefox Marketplace",
-  "main": "fonts.styl",
+  "main": "",
   "license": "MPL2.0",
   "ignore": [
     "**/.*",
